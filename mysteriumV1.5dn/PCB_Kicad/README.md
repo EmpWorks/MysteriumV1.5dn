@@ -1,14 +1,20 @@
-# MYSTERIUM
-**TKL keyboard that can be entirely assembled using only through hole components, including usb type c**
+# MYSTERIUM V1.5
+Originally created by coseyfannitutti 
 
-**[BOM, Build Guide, and Flashing Information](./doc)**
+**65% keyboard assembled with only through hole components, including usb type-c**
 
-**Kits available at [cftkb.com](https://www.cftkb.com)**
+### Disclaimer
+This board is a heavily-modified coseyfannitutti MYSTERIUM Pcb While the schematic, basic layout etc is essentially the same, it supports additional features like Hot-swap,Encoder etc.
 
-**[Optional High Profile Lasercut Acrylic Case](./case)**
+Key differences:
+- supports hotswap PCB sockets
+- added WS2812B Led strip footprint for backlit 
+- Optional encoder support
+- Oled support 
 
-![mysterium](./doc/images/mysterium.jpg)
-![](./doc/images/mysterium-kicad.png)
-![](./doc/images/mysterium-top.png)
-![](./doc/images/mysterium-bottom.png)
-![](./doc/images/mysterium-bottom-plate.png)
+Disclaimer: Use these files at your own risk.
+
+## Assembly
+For the components required, you may refer to the bill of materials here [BOM](https://octopart.com/bom-tool/wr8C8imk).
+
+All the components can be soldered using a regular soldering iron.
