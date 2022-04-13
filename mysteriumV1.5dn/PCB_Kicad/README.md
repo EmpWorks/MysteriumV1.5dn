@@ -17,4 +17,6 @@ Disclaimer: Use these files at your own risk.
 ## Assembly
 For the components required, you may refer to the bill of materials here [BOM](https://octopart.com/bom-tool/wr8C8imk).
 
-All the components can be soldered using a regular soldering iron.
+need 10k 804 smd Resistor for oled 
+ 
+All the components can be soldered using a regular soldering iron. 
