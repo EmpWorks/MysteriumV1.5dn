@@ -16,6 +16,7 @@ Disclaimer: Use these files at your own risk.
 
 ## Assembly
 For the components required, you may refer to the bill of materials here [BOM](https://octopart.com/bom-tool/wr8C8imk).
+Bottom plate for the [PCB](https://github.com/TheEmperor1510/MysteriumV1.5dn/tree/main/mysteriumV1.5dn/PCB_Kicad/bottom).
 
 need 10k 804 smd Resistor for oled 
  
